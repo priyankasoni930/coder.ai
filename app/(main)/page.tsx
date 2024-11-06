@@ -249,7 +249,7 @@ export default function Home() {
                           );
                           setIsPublishing(false);
                           toast.success(
-                            `Your app has been published & copied to your clipboard! ai-coder.io/share/${appId}`,
+                            `Your app has been published & copied to your clipboard! https://coder-ai-sooty.vercel.app/share/${appId}`,
                           );
                           navigator.clipboard.writeText(
                             `https://coder-ai-sooty.vercel.app/share/${appId}`,
