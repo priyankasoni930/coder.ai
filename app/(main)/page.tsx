@@ -127,9 +127,9 @@ export default function Home() {
             Powered by <span className="font-medium">Google Gemini</span>
           </span>
         </a>
-        <h1 className="my-6 max-w-3xl text-4xl font-bold text-gray-800 sm:text-6xl">
-          Turn your <span className="text-blue-600">idea</span>
-          <br /> into an <span className="text-blue-600">app</span>
+        <h1 className="my-6 max-w-3xl text-4xl font-bold text-gray-500 sm:text-6xl">
+          Turn your <span className="text-slate-700">idea</span>
+          <br /> into an <span className="text-slate-700">app</span>
         </h1>
 
         <form className="w-full max-w-xl" onSubmit={createApp}>
