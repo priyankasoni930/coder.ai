@@ -1167,7 +1167,7 @@ export default function App() {
                   <CardContent>
                     <a href={project.link} target="_blank" rel="noopener noreferrer">
                       <Button variant="outline">
-                        View Project <ExternalLink className="ml-2 h-4 w-4" />
+                        View Project 
                       </Button>
                     </a>
                   </CardContent>
