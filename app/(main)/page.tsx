@@ -252,7 +252,7 @@ export default function Home() {
                             `Your app has been published & copied to your clipboard! https://coder-ai-sooty.vercel.app/share/${appId}`,
                           );
                           navigator.clipboard.writeText(
-                            `https://coder-ai-sooty.vercel.app/share/${appId}`,
+                            `https://coder-ai-snowy.vercel.app/share/${appId}`,
                           );
                         }}
                         className="inline-flex h-[68px] w-40 items-center justify-center gap-2 rounded-3xl bg-blue-500 transition enabled:hover:bg-blue-600 disabled:grayscale"
